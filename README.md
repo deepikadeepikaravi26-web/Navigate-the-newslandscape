@@ -14,15 +14,23 @@ Project Title: Insight Stream – Navigate the News Landscape
 Team ID:NM2025TMID48393
 
 Team Leader: R. DEEPIKA
+
 Role       : Coding and development
 
 Team member : K DEVADHARSHINI
+
 Role        : Coding and development
+
 Team member : V DHANALAKSHMI
+
 Role        : Demo video
+
 Team member : M DHARSHINI
+
 Role        : Document creater
-Team member : P DHARUNA
+
+Team member : P DDEVADHARSHINI
+
 Role        : Document creater
 
 
